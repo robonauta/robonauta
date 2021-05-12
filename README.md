@@ -1,14 +1,13 @@
-# Pedro Almeida 
+# :nerd_face:  Hi, there! I'm Pedro Almeida 
 
-Hi, there! I'm currently a computer scientist undergrad @ IME-USP 💻 and QA intern @ enjoei 📋. 
+I'm currently a computer scientist undergrad @ IME-USP 💻 and QA intern @ enjoei 📋. 
 
 
 ----
 
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/robonauta)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robonauta&langs_count=8&layout=compact&count_private=true&theme=dark)](https://github.com/robonauta)
 
 
 
