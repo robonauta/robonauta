@@ -6,7 +6,9 @@ I'm currently a computer scientist undergrad @ IME-USP 💻 and QA intern @ enjo
 ----
 
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)]
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/robonauta)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robonauta&layout=compact&theme=dark&langs_count=8&count_private=true)](https://github.com/robonauta?tab=repositories)
 
 
 
