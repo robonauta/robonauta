@@ -1,6 +1,12 @@
 # Pedro Almeida 
+
+Hi, there! I'm currently a computer scientist undergrad 💻 @ IME-USP and QA intern 📋 @ enjoei. 
+
+
 ----
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta)](https://github.com/robonauta/github-readme-stats&hide=stars&count_private=true&show_icons=true&theme=dark)
+
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/robonauta/github-readme-stats)
 
 
 
