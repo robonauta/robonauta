@@ -6,7 +6,7 @@ Hi, there! I'm currently a computer scientist undergrad 💻 @ IME-USP and QA in
 ----
 
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/robonauta/github-readme-stats)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta&hide=stars&count_private=true&show_icons=true&theme=dark)]
 
 
 
