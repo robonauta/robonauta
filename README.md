@@ -1,4 +1,9 @@
-### Hi there 👋
+# Pedro Almeida 
+----
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonauta)](https://github.com/robonauta/github-readme-stats&hide=stars&count_private=true&show_icons=true&theme=dark)
+
+
+
 
 <!--
 **robonauta/robonauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
