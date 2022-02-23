@@ -1,6 +1,6 @@
 # :nerd_face:  Hi, there! I'm Pedro Almeida 
 
-I'm currently a computer scientist undergrad @ IME-USP 💻 and QA intern @ enjoei 📋. 
+I'm currently a computer scientist grad @ IME-USP 💻 and a data sciencist @ idwall 📋. 
 
 
 ----
